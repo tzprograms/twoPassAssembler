@@ -60,7 +60,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 License
 This project is licensed under the MIT License.
 
-Acknowledgements
-Special thanks to [Name], [Name], and [Name] for their valuable contributions and insights during the development of this project.
-Contact
-For any inquiries or support, please contact [Maintainer Name] at [email@example.com].
+For any inquiries or support, please contact tejassoham05.com.
